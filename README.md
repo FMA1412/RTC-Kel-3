@@ -1,10 +1,10 @@
 # RTC-Kel-3
-Nama Kelompok: Kelompok 3
+# Nama Kelompok: Kelompok 3
                1. Fahmi Maulana Ahmad (2042221053)
                2. Yus Putri Arum Segar ( 2042221068 )
                3.Nicholas Marthin Taihuttu ( 2042221002)
-Nama Supervisor: Ahmad Radhy, S.Si., M.Si
-Nama Departemen dan Institut: Departemen Teknik Instrumentasi 
+# Nama Supervisor: Ahmad Radhy, S.Si., M.Si
+# Nama Departemen dan Institut: Departemen Teknik Instrumentasi - Institut Teknologi Sepuuh Nopember
 
 Tugas Rekayasa Teknologi Cerdas
 
