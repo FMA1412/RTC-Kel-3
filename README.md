@@ -4,9 +4,9 @@
                2. Yus Putri Arum Segar ( 2042221068 )
                3.Nicholas Marthin Taihuttu ( 2042221002)
 # Nama Supervisor: Ahmad Radhy, S.Si., M.Si
-# Nama Departemen dan Institut: Departemen Teknik Instrumentasi - Institut Teknologi Sepuuh Nopember
+# Nama Departemen dan Institut: Departemen Teknik Instrumentasi - Institut Teknologi Sepuluh Nopember
 
-Tugas Rekayasa Teknologi Cerdas
+# Tugas Rekayasa Teknologi Cerdas
 
 1. Taylor Series
 # 📐 RIZZ - Kalkulasi Sinus dan Kosinus dengan Deret Taylor Berbasis Rust
