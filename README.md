@@ -8,7 +8,7 @@
 
 # Tugas Rekayasa Teknologi Cerdas
 
-1. Taylor Series
+# 1. Taylor Series
 # 📐 RIZZ - Kalkulasi Sinus dan Kosinus dengan Deret Taylor Berbasis Rust
 
 Proyek ini adalah implementasi fungsi matematika **sinus** dan **kosinus** menggunakan **deret Taylor** dalam bahasa Rust. Perhitungan dilakukan tanpa menggunakan fungsi built-in `f64::sin()` atau `f64::cos()`, tetapi melalui pendekatan numerik deret.
@@ -88,7 +88,7 @@ sin(30) ≈ 0.500000
 cos(30) ≈ 0.866025
 
 
-2. Lookup Table
+# 2. Lookup Table
 # TUGASRTC - Lookup Table Sinus & Kosinus Berbasis Rust
 
 Proyek ini merupakan program sederhana berbasis Rust untuk menghasilkan **lookup table** nilai sinus dan kosinus dari sudut 0° hingga 90° dengan interval 1 derajat. Lookup table ini disimpan menggunakan fitur `lazy_static` agar dapat digunakan secara efisien dalam berbagai perhitungan.
@@ -184,7 +184,7 @@ sin(23) ≈ 0.390731
 cos(23) ≈ 0.920505
 
    
-3. KNN & SVM
+# 3. KNN & SVM
 # 📘 Sistem Prediksi Kegagalan Mesin Berbasis Rust
 
 Proyek ini dikembangkan menggunakan bahasa pemrograman **Rust** dengan algoritma klasifikasi seperti **SVM (Support Vector Machine)** dan **kNN (k-Nearest Neighbors)** untuk mendeteksi jenis kerusakan mesin berdasarkan parameter seperti Air temperature [K], Process temperature [K], Rotational speed [rpm], Torque [Nm], Tool wear [min].
@@ -314,7 +314,7 @@ Probabilities:
 
  
 
-4. NN & qt
+# 4. NN & qt
 # 🚀 Predictive Maintenance - Sistem Klasifikasi Kerusakan Mesin Berbasis Rust Neural Network
 
 Proyek ini adalah sistem klasifikasi jenis kerusakan mesin menggunakan **Neural Network berbasis Rust**. Model dilatih menggunakan dataset *predictive maintenance*, disimpan ke dalam file `.bin`, dan dapat melakukan prediksi interaktif dari terminal. Proyek ini dapat dikembangkan lebih lanjut dengan Qt.
