@@ -16,7 +16,7 @@ Proyek ini adalah implementasi fungsi matematika **sinus** dan **kosinus** mengg
 
 ## 🧭 Struktur Proyek
 
-# RIZZ/
+RIZZ/
 ├── src/
 │   └── main.rs           # Program utama: perhitungan sin(x) dan cos(x)
 ├── Cargo.toml            # Konfigurasi proyek & dependensi (jika ada)
